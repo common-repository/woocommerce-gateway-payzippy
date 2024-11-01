@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="256px"
+	 height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<g id="Layer_3">
+	<g>
+		<path fill="#FFFFFF" d="M128,245.5c-64.79,0-117.5-52.71-117.5-117.5C10.5,63.21,63.21,10.5,128,10.5
+			c64.79,0,117.5,52.71,117.5,117.5C245.5,192.79,192.79,245.5,128,245.5z"/>
+		<path fill="#CE0909" d="M128,18c29.382,0,57.005,11.442,77.781,32.218S238,98.618,238,128s-11.442,57.005-32.219,77.781
+			S157.382,238,128,238s-57.005-11.442-77.782-32.219S18,157.382,18,128s11.442-57.005,32.218-77.782S98.618,18,128,18 M128,3
+			C58.965,3,3,58.964,3,128c0,69.035,55.965,125,125,125s125-55.965,125-125C253,58.964,197.035,3,128,3L128,3z"/>
+	</g>
+</g>
+<g id="Layer_1">
+	<g>
+		<polygon fill="#071AD0" points="134.969,172.571 218,51.757 210.906,51.757 74.688,204.242 212.429,204.242 191.473,172.571 		"/>
+		<polygon fill="#071AD0" points="64.37,51.757 42.779,83.505 121.032,83.429 38,204.242 45.094,204.242 181.312,51.757 		"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<line fill="none" stroke="#CE0909" stroke-width="15" stroke-miterlimit="10" x1="39.612" y1="39.612" x2="216.389" y2="216.389"/>
+</g>
+</svg>
